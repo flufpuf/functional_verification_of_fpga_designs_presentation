@@ -1,0 +1,34 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Fri May 10 08:48:49 2024
+[*]
+[dumpfile] "/home/jakob/workspace/fpga_presentations/vunit_demo/sim/vunit_out/test_output/lib.tb_axi_stream.burst_239a65044990e6eaa1aecb119cb01124c0a05257/ghdl/wave.ghw"
+[dumpfile_mtime] "Fri May 10 08:46:27 2024"
+[dumpfile_size] 3075
+[savefile] "/home/jakob/workspace/fpga_presentations/vunit_demo/sim/wave/tb_axi_stream.gtkw"
+[timestart] 0
+[size] 2560 1403
+[pos] 1919 -33
+*-9.720819 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[treeopen] top.
+[treeopen] top.tb_axi_stream.
+[treeopen] top.tb_axi_stream.dut.
+[sst_width] 273
+[signals_width] 369
+[sst_expanded] 1
+[sst_vpaned_height] 429
+@28
+top.tb_axi_stream.dut.clk
+top.tb_axi_stream.dut.reset
+@22
+#{top.tb_axi_stream.dut.m_axis_tdata[7:0]} top.tb_axi_stream.dut.m_axis_tdata[7] top.tb_axi_stream.dut.m_axis_tdata[6] top.tb_axi_stream.dut.m_axis_tdata[5] top.tb_axi_stream.dut.m_axis_tdata[4] top.tb_axi_stream.dut.m_axis_tdata[3] top.tb_axi_stream.dut.m_axis_tdata[2] top.tb_axi_stream.dut.m_axis_tdata[1] top.tb_axi_stream.dut.m_axis_tdata[0]
+#{top.tb_axi_stream.dut.s_axis_tdata[7:0]} top.tb_axi_stream.dut.s_axis_tdata[7] top.tb_axi_stream.dut.s_axis_tdata[6] top.tb_axi_stream.dut.s_axis_tdata[5] top.tb_axi_stream.dut.s_axis_tdata[4] top.tb_axi_stream.dut.s_axis_tdata[3] top.tb_axi_stream.dut.s_axis_tdata[2] top.tb_axi_stream.dut.s_axis_tdata[1] top.tb_axi_stream.dut.s_axis_tdata[0]
+@28
+top.tb_axi_stream.dut.m_axis_tready
+@29
+top.tb_axi_stream.dut.m_axis_tvalid
+@28
+top.tb_axi_stream.dut.s_axis_tready
+top.tb_axi_stream.dut.s_axis_tvalid
+[pattern_trace] 1
+[pattern_trace] 0

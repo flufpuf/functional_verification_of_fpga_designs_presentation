@@ -1,0 +1,3 @@
+RunTest tb_axi_stream_single_burst.vhd;
+RunTest tb_axi_stream_multi_burst.vhd;
+RunTest tb_axi_stream_corner_case.vhd;

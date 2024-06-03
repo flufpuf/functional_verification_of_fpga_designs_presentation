@@ -1,0 +1,97 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="401px" height="306px" viewBox="-0.5 -0.5 401 306" content="&lt;mxfile&gt;&lt;diagram id=&quot;FfmaFuaVbCZMzz_g3hgm&quot; name=&quot;Page-1&quot;&gt;3VpNc9owFPw1XDtYso05JpCkh2amM6RtchT2w2hqLCqLBPrrK8eSv2QIBBM7vWTQSrKeVqt9spwBnqy2d5ysl/csgGiAhsF2gKcDhEajkfybArsMwBhlQMhpkEFWAczoX1DgUKEbGkBSaSgYiwRdV0GfxTH4ooIRztlLtdmCRdVR1yQEA5j5JDLRXzQQywz1nGGBfwUaLvXI1lDVrIhurIBkSQL2UoLwzQBPOGMi+7XaTiBKudO8ZP1u99TmgXGIxTEdEM56PJNooyb3AImYQ+wvVYRip6fN2SYOIO05HOBrEtEwlr8jWMihrp+BCyopulKwYGuJJmvi0zj89tpmakvEjFAFnT4AtiVIRXwHbAWC72QTXesp9pR8kKvKL8Vi2JryZWkhctqJEkCYP7vgSP5QNDVTNjYYM4iCQMpFFRkXSxaymEQ3BXpdpTIRhIurVJgSiFkMGrulaRivbSAOdAs/IklC/QxUTazXLpz9zhWJDpGdsA33VbQqfjleCKqVm0HpPA4uCIeICPpc3RbnkIsMcqc/Ht4Q4kIyMGER46+VOCDgLfycjlKN63swX7SjQWxXNYiRqUGvQYJeCwocXUKB75IONqWDupKO6WRTLp/PT1SPA15gN6nHQ3Psui052LimHtsx1OM2qAe3oB6vffWUvEm5V2FMhr8V7lW2uDP8y25bcarrd0blqPmaoVrWwW5tMbJdoHrV1iMP4zgp47OXZClWReaQAz+WC09p4Yuji9NtuXK62+sJLeWpU1a1bC3Y6spbbGPP3LOYCtZLc0FOTahjMzVdylz0Cf1ip6P97vG2Cb3LXZyPcRe7fp440l3klMmu1GydNkgOjLPHxYr1zZ74XutqOMG1kF6UgVk9MTDYUvFYhCBLT6WaIpq0oIM5RWxl07M6Mz3nM5me3aHpuQZR/T15OlZ3J08t5RJRM59xmDPCgz6ShWtmmZt0iazRhchqOHO0kEm7PNFZDRcN+q2t5fR6alZ0sFNZaDR2Ws2Keuq1azaJTEgCyWnaXyzA9RsvOILReD48mGxOMFS3qv38aPcR2jcd9ZNrvymzty79o+k1M/sM/mwgltH2UIn1yxL0gan9mLu2HiQqNKwlqgaKUANFbdyHN1wo/QROF9SXqmVx6nFstZbbSzlwhTs5P2GQo/ZimUkFvfHNYUWDoGnrX+IjRM6dptwzD1KWcylZHvERogc7F4+7k6Wm2Uy5szX4qTz/IzHaVodixKb2zrit7DZP6yvGfryBY/OFSX1L7+Fer0uw4V1Jv2ueqUBZLL6QZ6fx4t8M8M0/&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="50" width="400" height="220" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+            <text x="5.5" y="67.5">
+                Testbench
+            </text>
+        </g>
+        <path d="M 240 150 L 321.76 150" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 327.76 150 L 319.76 154 L 321.76 150 L 319.76 146 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="160" y="110" width="80" height="80" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="199.5" y="154.5">
+                DUT
+            </text>
+        </g>
+        <path d="M 70 150 L 151.76 150" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 157.76 150 L 149.76 154 L 151.76 150 L 149.76 146 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="10" y="135" width="60" height="30" fill="#d5e8d4" stroke="#82b366" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="39.5" y="154.5">
+                Driver
+            </text>
+        </g>
+        <path d="M 100 171.76 L 100 150" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 100 177.76 L 96 169.76 L 100 171.76 L 104 169.76 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 100.04 210 L 100.04 245.04 L 121.76 245.01" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 127.76 245 L 119.77 249.01 L 121.76 245.01 L 119.76 241.01 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="70" y="180" width="60" height="30" fill="#d5e8d4" stroke="#82b366" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="99.5" y="199.5">
+                Monitor
+            </text>
+        </g>
+        <path d="M 300.04 171.76 L 300.04 150 L 260 150" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 300.04 177.76 L 296.04 169.76 L 300.04 171.76 L 304.04 169.76 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 300 210 L 300.04 245.04 L 278.24 245.01" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 272.24 245 L 280.24 241.01 L 278.24 245.01 L 280.23 249.01 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="270" y="180" width="60" height="30" fill="#d5e8d4" stroke="#82b366" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="299.5" y="199.5">
+                Monitor
+            </text>
+        </g>
+        <rect x="330" y="135" width="60" height="30" fill="#d5e8d4" stroke="#82b366" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="359.5" y="154.5">
+                Driver
+            </text>
+        </g>
+        <rect x="200" y="230" width="70" height="30" fill="#d5e8d4" stroke="#82b366" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="234.5" y="249.5">
+                Scoreboard
+            </text>
+        </g>
+        <path d="M 315 30 L 315 41.76" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 315 47.76 L 311 39.76 L 315 41.76 L 319 39.76 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="280" y="0" width="70" height="30" fill="#ffe6cc" stroke="#d79b00" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="314.5" y="19.5">
+                Test Cases
+            </text>
+        </g>
+        <path d="M 40 110 L 40 126.76" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 40 132.76 L 36 124.76 L 40 126.76 L 44 124.76 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="10" y="80" width="60" height="30" fill="#ffe6cc" stroke="#d79b00" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="39.5" y="99.5">
+                Sequence
+            </text>
+        </g>
+        <rect x="20" y="280" width="20" height="20" fill="#d5e8d4" stroke="#82b366" pointer-events="all"/>
+        <rect x="40" y="275" width="150" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+            <text x="45.5" y="294.5">
+                Verification Components
+            </text>
+        </g>
+        <rect x="210" y="280" width="20" height="20" fill="#ffe6cc" stroke="#d79b00" pointer-events="all"/>
+        <rect x="230" y="275" width="150" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+            <text x="235.5" y="294.5">
+                Test Specific
+            </text>
+        </g>
+        <path d="M 175 245 L 191.76 245" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 197.76 245 L 189.76 249 L 191.76 245 L 189.76 241 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="130" y="230" width="45" height="30" fill="#ffe6cc" stroke="#d79b00" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="152" y="249.5">
+                Model
+            </text>
+        </g>
+    </g>
+</svg>
