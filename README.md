@@ -1,1 +1,2 @@
-# functional_verification_of_fpga_designs_presentation
+# Functional Verification of FPGA Designs
+
